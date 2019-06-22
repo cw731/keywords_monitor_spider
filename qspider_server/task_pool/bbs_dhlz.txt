@@ -1,0 +1,19 @@
+{
+    'name':'',
+    'info': '',
+    'rule': {
+             'rule_type': 'xpash',
+             'rule_data': ''
+        },
+    'data': {
+             'data_type': 'urls',
+             'data': 'redis',
+             'url_rule':{
+                 'rule_type': 'xpash',
+                 'rule_data': ''
+                },
+        },
+    'urls':[
+
+    ],
+}
