@@ -22,7 +22,7 @@
 - name 任务名称
 - info 任务简介
 - rule 解析方法和解析语句 (xpash ,re, css)
-- data 数据类型和存储方式 (redis,file, sql, mongo)
+- data 数据类型(data,urls)和存储方式 (redis,file, sql, mongo)
 - urls url列表
 
 
@@ -51,6 +51,6 @@
 - name 任务名称
 - info 任务简介
 - rule 解析方法和解析语句 (xpash ,re, css)
-- data 数据类型和存储方式 当data_type = urls
+- data 数据类型(data,urls)和存储方式 当data_type = urls
     这时需要定义url_rule
 - urls url列表

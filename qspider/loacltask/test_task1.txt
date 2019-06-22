@@ -1,0 +1,17 @@
+{
+    "name":"test1",
+    "info": "测试",
+    "rule": {
+             "rule_type": "xpash",
+             "rule_data": "123"
+        },
+    "data": {
+             "data_type": "data",
+             "data": "redis"
+        },
+    "urls":[
+        "url1",
+        "url3",
+        "url2"
+    ]
+}
